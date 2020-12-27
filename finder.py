@@ -1,5 +1,6 @@
 #! /usr/bin/python3
 # -*- coding: UTF-8 -*-
+# github/hanzdev
 
 import requests
 import argparse
