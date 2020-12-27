@@ -6,4 +6,5 @@ Admin Panel and Subdomain Finder
 example usage:
 
 chmod +x finder.py
+
 ./finder.py -d targetdomain.com -t subdomain -p https -f yourwordlist.txt
